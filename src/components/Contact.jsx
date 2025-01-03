@@ -30,10 +30,6 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
-
- //service_fgdm2pb
-//template_pwikcrd
-//C1IwXSYcmq6_Gew9H
     emailjs
       .send(
        'service_fgdm2pb',
